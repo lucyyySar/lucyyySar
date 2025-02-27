@@ -3,7 +3,7 @@
 
 <h2>Немного обо мне!</h2>
 <ul>
-<li> 👩🏻‍💻 </h2> Высшее образование в сфере IT. Красный <a href="https://drive.google.com/file/d/1ZLaE_vsG-bdGf0pZxbhCldgChWrZ3Nn5/view?usp=sharing">диплом</a> бакалавра по направлению "Информационные системы и технологии в бизнесе" </li>
+<li> 👩🏻‍💻 </h2> Высшее образование в сфере IT. Красный диплом бакалавра по направлению "Информационные системы и технологии в бизнесе" </li>
 <li> 😌 С отличием закончила курс "Тестирование ПО с нуля. Теория + Практика". <a href="https://drive.google.com/file/d/1I9SgGjZDI4yUmsC_b8_0KRKEbpIu03WI/view?usp=sharing">Сертификат</a> </li>
 <li> ☕ Кроме того, просмотрела множество мелких курсов без сертификатов, а также обучающие видео на ютубе</li>
 <li> 🐈‍ Успешно прошла стажировку на тестировщика в IT-компании. Приобрела реальный опыт работы в команде тестировщиков </li>
@@ -34,4 +34,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="HTML5" alt="HTML5" width="40" height="40"/>
 </p>
 <h2>Портфолио</h2>
+<li> <a href="https://docs.google.com/spreadsheets/d/1D-zOeIGhVuuEwEFoG8t5IXwYCrbZ_CCiZbcQ5F_WUhI/edit?usp=sharing" rel="noflow">Пример чек-листа</a> </li>
+<li> <a href="https://docs.google.com/spreadsheets/d/1_j1_Rpja430nuqy1xTO9txB_QINWhfp4oTFS1dXjf5s/edit?usp=sharing" rel="noflow">Пример тест-кейсов</a> </li>
+<li> <a href="https://docs.google.com/spreadsheets/d/1_j1_Rpja430nuqy1xTO9txB_QINWhfp4oTFS1dXjf5s/edit?usp=sharing" rel="noflow">Примеры баг-репортов (JIRA)</a> </li>
 <li> <a href="https://docs.google.com/spreadsheets/d/1YA3Sj23maJZmsJyBzJXF9-_8FcJspWKNCFho8zqUj30/edit?usp=sharing" rel="noflow">Запросы SQL</a> </li>
