@@ -37,5 +37,5 @@
 <li> <a href="https://docs.google.com/spreadsheets/d/1D-zOeIGhVuuEwEFoG8t5IXwYCrbZ_CCiZbcQ5F_WUhI/edit?usp=sharing" rel="noflow">Пример чек-листа</a> </li>
 <li> <a href="https://docs.google.com/spreadsheets/d/1_j1_Rpja430nuqy1xTO9txB_QINWhfp4oTFS1dXjf5s/edit?usp=sharing" rel="noflow">Пример тест-кейсов</a> </li>
 <li> <a href="https://github.com/lucyyySar/API" rel="noflow">Тестирование API в POSTMAN</a> </li>
-<li> <a href="https://docs.google.com/spreadsheets/d/1_j1_Rpja430nuqy1xTO9txB_QINWhfp4oTFS1dXjf5s/edit?usp=sharing" rel="noflow">Примеры баг-репортов в JIRA</a> </li>
+<li> <a href="https://docs.google.com/spreadsheets/d/1p3TTqFCs1P2BTKa4_BNQAslB7tto3ctwORM3VmUwN9Q/edit?usp=sharing" rel="noflow">Примеры баг-репортов</a> </li>
 <li> <a href="https://docs.google.com/spreadsheets/d/1YA3Sj23maJZmsJyBzJXF9-_8FcJspWKNCFho8zqUj30/edit?usp=sharing" rel="noflow">Запросы SQL</a> </li>
