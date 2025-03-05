@@ -7,7 +7,7 @@
 <li> С отличием закончила курс "Тестирование ПО с нуля. Теория + Практика". <a href="https://drive.google.com/file/d/1I9SgGjZDI4yUmsC_b8_0KRKEbpIu03WI/view?usp=sharing">Сертификат</a> </li>
 <li> Кроме того, просмотрела множество мелких курсов без сертификатов, а также обучающие видео на ютубе</li>
 <li> Успешно прошла стажировку на тестировщика в IT-компании. Приобрела реальный опыт работы в команде тестировщиков </li>
-<li> А для более подробной информации просто ознакомьтесь с моим <a href="https://drive.google.com/file/d/1NSne49aWXzQyw0Rpxgy2VnBNMz1zwPPg/view?usp=sharing">резюме</a> :) </li> 
+<li> А для более подробной информации просто ознакомьтесь с моим <a href="https://drive.google.com/file/d/1fXjtLJZ9hkuR3VZZLVBNBj8GfwWXUmnc/view?usp=sharing">резюме</a> :) </li> 
 </ul>
 <h2>Связь со мной:</h2>
 <div id="badges">
